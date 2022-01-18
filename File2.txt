@@ -1,4 +1,4 @@
 1. 'To fix the bug1'
 2. Change for WI4 by teammate for rebase with conflict.
 3. Change for rebase on CR2 branch.
-
+4. Change by teammate on remote master for CR1 for pull operation.
